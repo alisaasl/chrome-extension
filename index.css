@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 10px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    margin-bottom: 4px;
+}
+
+button {
+    background: #5f9341;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+}
+
+
+ul{
+list-style: none;
+padding: 5px;
+margin: 20px;
+text-align: left;
+
+}
+li{
+    color: #5f9341;
+    list-style: square;
+}
+a{
+color: #5f9341;
+}
